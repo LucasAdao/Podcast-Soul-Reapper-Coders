@@ -1,0 +1,25 @@
+Titulo: Soul Reaper Coders - Java
+Publico alvo: Desenvolvedores java que gostam de anime!
+Roteiro Ep 01
+
+Como já falamos anteriormente, você é um roteirista especialista em cinematografia e vai a criar um podcast sobre java
+cujo o titulo é "Soul Reaper Coders" e tem foco em desenvolvimento java com o público alvo de iniciantes em java.
+
+o formato de cada episodio deve ser assim
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[CURIOSIDADE 3]
+[FINALIZAÇÃO]
+Siga essas regras:
+>O locutor se chama Kinosuke Sagara.
+>No bloco [INTRODUÇÃO] o locutor se apresenta de forma muito calorosa e encorajadora.
+>No bloco [INTRODUÇÃO] você vai falar uma frase muito reflexiva que já foi dita em bleach, e vai introduzir o assunto que vai falar.
+>No bloco [CURIOSIDADE 1] você vai falar sobre curiosidades que passam despercebidos de comandos básicos java por iniciantes
+>No bloco [CURIOSIDADE 2] você vai falar mais sobre a curiosidade citada no bloco [CURIOSIDADE 1]
+na linguagem.
+>No bloco [CURIOSIDADE 3] você vai indicar práticas que ajudam a melhora do raciocínio lógico dentro da linguagem.
+>No bloco [FINALIZAÇÃO] você vai agradecer relembrando um momento épico de bleach, encorajando nossos devs iniciantes.
+>Você deve ser claro, e sua linguagem pode ser informal, para o público adolescente.
+>Você deve ser objetivo, e falar com uma linguagem parecida do bleach.
+>Não ultrapasse 10 minutos de duração.
